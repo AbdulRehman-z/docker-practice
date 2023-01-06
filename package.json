@@ -1,0 +1,18 @@
+{
+  "name": "docker-node-express",
+  "version": "1.7.2",
+  "type": "module",
+  "description": "jQuery JavaScript Library v1.7.2",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Abdul Rehman"
+}
